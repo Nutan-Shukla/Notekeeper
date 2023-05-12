@@ -1,0 +1,32 @@
+.id1{
+    background-color: rgb(192 192 33);
+    color: white;
+    padding: 8px;
+    /* width: 100%; */
+    /* position: absolute; */
+    top: 0px;
+   
+}
+body{
+    margin:0px;
+}
+.id2{
+
+      background-color: rgb(136, 76, 76);
+    width: 300px;
+    height: 100px;
+    border: 2px solid white;
+    border-radius: 5px;
+    margin-top:  10px;
+    margin-left: 10px;
+    padding: 15px;
+
+}
+.id3{
+
+    background-color: white;
+    position: absolute;
+    bottom: 0px;
+    margin-left: 670px;
+    color: black;
+}
